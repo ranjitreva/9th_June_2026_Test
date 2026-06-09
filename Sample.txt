@@ -1,1 +1,2 @@
 Sample Text
+Editing sample file directly from GitHub.
