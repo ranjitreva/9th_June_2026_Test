@@ -1,2 +1,2 @@
 Sample Text
-Editing sample file directly from GitHub.
+Adding a new line from VS Code
