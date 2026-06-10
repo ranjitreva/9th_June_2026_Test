@@ -6,3 +6,5 @@ This is the second change from VS Code
 First change
 
 Second change
+
+To show stash
