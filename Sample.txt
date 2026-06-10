@@ -7,4 +7,5 @@ First change
 
 Second change
 
+To show stash
 Added text to show conflict
